@@ -10,21 +10,10 @@ Engineering Manager | Systems Architect | Backend Specialist
 
 ---
 
-## 🧠 About
-
-Technical leader focused on building scalable systems and high-performance teams.
-
-Specialized in:
-- Microservices architecture  
-- Legacy system modernization  
-- High-performance backend systems  
-
----
-
 ## 🏗️ Experience
 
 **Grupo Salinas**  
-Engineering Manager (2022 – Present)  
+Engineering Manager (2017 – 2026)  
 
 - Leading mission-critical systems  
 - Designing scalable architectures  
@@ -39,14 +28,6 @@ Engineering Manager (2022 – Present)
 - Angular  
 - Apigee  
 - Microservices  
-
----
-
-## ⚡ Focus
-
-- Scalable systems  
-- Performance  
-- Maintainability  
 
 ---
 
